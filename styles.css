@@ -1,0 +1,42 @@
+.top-cloud
+ {
+  position:absolute;
+  right:300px;
+  top:50px;
+ }
+
+.bottom-cloud
+ {
+   position:absolute;
+   left:300px;
+   top:250px;
+ }
+
+.top-container
+ {
+  background-color:#77cbc4;
+  position: relative;
+  padding-top: 100px;
+  text-align: center; 
+  font-family:'papyrus', cursive;
+  font-size: 24px;
+ }
+
+.middle-container
+ {
+  font-family:Bodoni MT;
+  text-align: center;
+  position: relative;
+ }
+
+.skills
+ { 
+  text-align: center;
+  position: relative;
+ }
+
+ .bottom-container
+ {
+  position: relative;
+  text-align: center;
+ }
